@@ -18,10 +18,10 @@ samples:
 
 ### 2. Create an issue in zenhub
 
-### 3.progressing 
+### 3. Progressing 
 by draging to other pipeline 
 
-### 4.completed
+### 4. Completed
 drag to done pipeline and complete desc as follows
 
 samples:
