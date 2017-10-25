@@ -2,7 +2,7 @@
 #### Get things down with zenhub
 
 
-create GTD--->Inbox.md--->create issue--->progressing(drag to other pipeline)---> complete
+create GTD--->Inbox.md--->create issue--->progressing---> complete
 
 ### 1. Create GTD in Inbox.md
 
